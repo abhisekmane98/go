@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/abhishekmane98/go/add"
-	"github.com/abhishekmane98/go/substract"
+	"github.com/fyoder1821/go/add"
+	"github.com/fyoder1821/go/substract"
 )
 
 func main() {
