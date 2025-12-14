@@ -1,9 +1,10 @@
 package main
 
 import (
-	"12_2_git_clone/abhishekmane98/go/add"
-	"12_2_git_clone/abhishekmane98/go/substract"
 	"fmt"
+
+	"github.com/abhishekmane98/go/add"
+	"github.com/abhishekmane98/go/substract"
 )
 
 func main() {
